@@ -45,7 +45,7 @@ const teamMembers = [
     instagram: "https://instagram.com/your-instagram"
   },
   {
-    name: "Akshat",
+    name: "Akshat kulkarni",
     role: "Assistant Project Manager",
     image: getDriveImageUrl("YOUR_DRIVE_ID"),
     linkedin: "https://www.linkedin.com/in/akshat-kulkarni-8321572a4/",
@@ -53,7 +53,7 @@ const teamMembers = [
     instagram: "https://instagram.com/akshat"
   },
   {
-    name: "Sandhya",
+    name: "Sandhya Borade",
     role: "HTML & CSS Developer",
     image: "public/team/sandhaya.jpg",
     linkedin: "https://www.linkedin.com/in/sandhya-borade-203a372a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -61,7 +61,7 @@ const teamMembers = [
     instagram: "https://instagram.com/sandhaya"
   },
   {
-    name: "Vedant",
+    name: "Vedant Ahire",
     role: "PROJECT MANAGER",
     image: "public/team/vedant.jpg",
     linkedin: "https://www.linkedin.com/in/vedant-ahire-7a7117327/",
